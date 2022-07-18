@@ -1,0 +1,14 @@
+name: SpeedDown
+speedMultiplier: 0.5
+effect: {
+type: WaveEffect
+sizeFrom: 8
+sizeTo: 0
+lifetime: 20
+cone: 0
+strokeFrom: 2
+strokeTo: 2
+colorFrom: 260c40
+colorTo: 340f5a
+}
+color: 340f5a

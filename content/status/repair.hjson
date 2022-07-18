@@ -1,0 +1,16 @@
+name: Repair
+damage: -0.5
+effect: {
+    type: ParticleEffect
+sizeFrom: 5
+sizeTo: 0
+lifetime: 30
+particles: 1
+cone: 0
+length: 2
+colorFrom: cc7116
+colorTo: e78523
+colorFrom: 007900
+colorTo: 009f00
+}
+color: 009f00

@@ -1,0 +1,14 @@
+name: SpeedUp
+speedMultiplier: 1.3
+effect: {
+type: ParticleEffect
+sizeFrom: 4
+sizeTo: 0
+lifetime: 20
+particles: 8
+cone: 360
+length: 2
+colorFrom: cc7116
+colorTo: e78523
+}
+color: e78523
