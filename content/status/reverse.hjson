@@ -1,0 +1,14 @@
+name: Reverse
+speedMultiplier: -0.5
+effect: {
+type: ParticleEffect
+sizeFrom: 4
+sizeTo: 0
+lifetime: 20
+particles: 10
+cone: 360
+length: 2
+colorFrom: a152b7
+colorTo: c53bab
+}
+color: a152b7

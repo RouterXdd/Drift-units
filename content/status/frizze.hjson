@@ -1,0 +1,15 @@
+name: Frizze
+speedMultiplier: 0
+dragMultiplier: 0
+effect: {
+type: ParticleEffect
+sizeFrom: 4
+sizeTo: 0
+lifetime: 20
+particles: 14
+cone: 360
+length: 3
+colorFrom: 50e4c0
+colorTo: 50e4c0
+}
+color: 50e4c0
